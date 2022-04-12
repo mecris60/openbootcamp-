@@ -1,2 +1,2 @@
-# openbootcamp-
-Ejercicios realizados en el curso de OpenBootcamp
+# Bienvenido a mi curso de OpenBootcamp
+Encontrarás ejercicios realizados durante el curso de OpenBootcamp
